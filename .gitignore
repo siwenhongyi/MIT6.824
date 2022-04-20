@@ -13,3 +13,13 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+#mit src repo .gitignore
+pkg/
+api.key
+.api.key.trimmed
+*-handin.tar.gz
+
+#my .gitignore
+.idea/
+#.check-build
